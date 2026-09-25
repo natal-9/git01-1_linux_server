@@ -139,13 +139,25 @@ Adresář `srv01/.vagrant/` vznikne pouze lokálně při práci s Vagrantem a ne
 
 ## Moje řešení
 
-- **Distribuce a verze:** doplňte
-- **Použitý Vagrant box:** doplňte
-- **Adresář serveru:** doplňte
-- **Výsledek spuštění a přihlášení:** doplňte
+- **Distribuce a verze:** Debian GNU/Linux 13 (trixie)
+- **Použitý Vagrant box:** bento/debian-13
+- **Adresář serveru:** srv01
+- **Výsledek spuštění a přihlášení:**  Server se spustil a přihlásit se příkazem `vagrant ssh
 - **Případné problémy a jejich řešení:** doplňte
-- **Kontrolní kód a záznam ze serveru:** sem vložte celý Markdown blok vypsaný skriptem
-- **Bonus – AI obrázek a použitý prompt:** doplňte, pokud plníte bonus
+- **Kontrolní kód a záznam ze serveru:**  `SPOS-31-6453ae2679ebfeae092d2c772bbb31df15b8595467ef42eca88a4b6a82c20a87` 
+                                            Úloha: git-vagrant / SPOŠ / 3. I / v1
+                                            Distribuce: Debian GNU/Linux 13 (trixie)
+                                            Hostname: debian13
+                                            Kernel: 6.12.48+deb13-amd64
+                                            Virtualizace: oracle
+                                            Čas UTC: 2026-09-25T06:38:52Z
+                                            Náhodné ID: c9bed569-239b-4b64-b8ea-cd5a5006c61b
+
+- **Bonus – AI obrázek a použitý prompt:** ### Použitý AI nástroj
+ChatGPT – generování obrázku pomocí AI.
+
+### Prompt
+Moderní  obrázek Linuxové serverové laboratoře s centrálním serverem, virtuálními servery, Linuxem, Gitem a Vagrantem. Tmavé prostředí, modré neonové osvětlení.
 
 ## Nápověda a odkazy
 
@@ -153,3 +165,4 @@ Adresář `srv01/.vagrant/` vznikne pouze lokálně při práci s Vagrantem a ne
 - [Jak probíhá výuka operačních systémů na SPOŠ](https://open-tech.cz/2024/09/01/operacni-systemy-na-spos-rovnou-do-praxe/)
 - [Dokumentace Vagrantu](https://developer.hashicorp.com/vagrant/docs)
 - [Dokumentace .gitignore](https://git-scm.com/docs/gitignore)
+
